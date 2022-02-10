@@ -84,7 +84,7 @@ The general procedure is as follows:
 
 The Adaboost Classifier has the best Accuracy score among all models analyzed of 0.793. <br> Adaboost Classifier also has the best Cross-Validation score of 0.802 among all models and hence, is both a <b>good fit</b> to the data and the **best suiting model** for this dataset.<br> 
 
-![models_performace](Images/models_performace.PNG)
+![models_performance](Images/models_performance.PNG)
 
 ## References:
 
